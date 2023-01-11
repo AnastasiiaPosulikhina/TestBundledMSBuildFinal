@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+smw0nE6sKq6mvo8kkC+NI/NqBGJ9Zr8fiDZ15dSMlAjZWJvsPKeybjOp7DPSSpbxbc7eim7saknN0k6AluKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\ConsoleApp6\\ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

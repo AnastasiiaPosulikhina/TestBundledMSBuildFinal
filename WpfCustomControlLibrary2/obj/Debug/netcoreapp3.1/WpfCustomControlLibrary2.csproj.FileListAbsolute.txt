@@ -1,0 +1,15 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary2.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary2.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2_MarkupCompile.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2_MarkupCompile.lref
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.g.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfCustomControlLibrary2\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary2.pdb

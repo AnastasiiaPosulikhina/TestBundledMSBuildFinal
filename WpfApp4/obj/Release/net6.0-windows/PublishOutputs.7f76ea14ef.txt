@@ -1,0 +1,5 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfApp4\bin\Release\net6.0-windows\publish\WpfApp4.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfApp4\bin\Release\net6.0-windows\publish\WpfApp4.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfApp4\bin\Release\net6.0-windows\publish\WpfApp4.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfApp4\bin\Release\net6.0-windows\publish\WpfApp4.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfApp4\bin\Release\net6.0-windows\publish\WpfApp4.pdb

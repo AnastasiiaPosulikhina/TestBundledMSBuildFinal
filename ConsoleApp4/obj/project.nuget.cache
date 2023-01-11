@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CYusaqLQoJm71Xm3mK49k8R/UzXmKOBqwweRpf0v2jISkc81htt3EnKW9jSyCuCnnuFPdoxU/cOQLWrE+Riujw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\ConsoleApp4\\ConsoleApp4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

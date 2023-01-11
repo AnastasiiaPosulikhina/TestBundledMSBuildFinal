@@ -1,0 +1,9 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\bin\Debug\netcoreapp3.1\ClassLibrary14.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\bin\Debug\netcoreapp3.1\ClassLibrary14.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\bin\Debug\netcoreapp3.1\ClassLibrary14.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.fsproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.AssemblyInfo.fs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.fsproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary14\obj\Debug\netcoreapp3.1\ClassLibrary14.pdb

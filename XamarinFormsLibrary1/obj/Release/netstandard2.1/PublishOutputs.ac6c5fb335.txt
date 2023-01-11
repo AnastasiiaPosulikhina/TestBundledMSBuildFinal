@@ -1,0 +1,6 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\XamarinFormsLibrary1\bin\Release\netstandard2.1\publish\XamarinFormsLibrary1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\XamarinFormsLibrary1\bin\Release\netstandard2.1\publish\XamarinFormsLibrary1.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\XamarinFormsLibrary1\bin\Release\netstandard2.1\publish\XamarinFormsLibrary1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\XamarinFormsLibrary1\bin\Release\netstandard2.1\publish\Xamarin.Forms.Core.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\XamarinFormsLibrary1\bin\Release\netstandard2.1\publish\Xamarin.Forms.Platform.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\XamarinFormsLibrary1\bin\Release\netstandard2.1\publish\Xamarin.Forms.Xaml.dll

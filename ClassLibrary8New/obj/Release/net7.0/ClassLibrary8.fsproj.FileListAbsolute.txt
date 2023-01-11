@@ -1,0 +1,13 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\bin\Release\net7.0\ClassLibrary8.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\bin\Release\net7.0\ClassLibrary8.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\bin\Release\net7.0\ClassLibrary8.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\bin\Release\net7.0\ClassLibrary8.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ClassLibrary8.fsproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ClassLibrary8.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ClassLibrary8.AssemblyInfo.fs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ClassLibrary8.fsproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ClassLibrary8.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\refint\ClassLibrary8.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ClassLibrary8.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ClassLibrary8.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary8\obj\Release\net7.0\ref\ClassLibrary8.dll

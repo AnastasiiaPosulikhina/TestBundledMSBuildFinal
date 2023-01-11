@@ -1,0 +1,6 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\EmptyProject1\bin\Debug\EmptyProject1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\EmptyProject1\bin\Debug\EmptyProject1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\EmptyProject1\obj\Debug\EmptyProject1.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\EmptyProject1\obj\Debug\EmptyProject1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\EmptyProject1\obj\Debug\EmptyProject1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\EmptyProject1\obj\Debug\EmptyProject1.pdb

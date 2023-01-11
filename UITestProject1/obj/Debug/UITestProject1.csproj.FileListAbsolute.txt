@@ -1,0 +1,9 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\bin\Debug\UITestProject1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\bin\Debug\UITestProject1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\bin\Debug\Xamarin.UITest.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\obj\Debug\UITestProject1.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\obj\Debug\UITestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\obj\Debug\UITestProject1.csproj.CopyComplete
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\obj\Debug\UITestProject1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\UITestProject1\obj\Debug\UITestProject1.pdb

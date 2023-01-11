@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PntihUWQfu4AkoUVlLpumcOHSH+FtZuuScseXfhy75VIH0G1Ts+++VRTXa1WT45uglkbqDPnIjsZ9W92dIo06A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\EmptyBlazorApp1\\EmptyBlazorApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

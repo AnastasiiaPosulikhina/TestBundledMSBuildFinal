@@ -1,0 +1,15 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\bin\Debug\netcoreapp3.1\WpfControlLibrary2.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\bin\Debug\netcoreapp3.1\WpfControlLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\bin\Debug\netcoreapp3.1\WpfControlLibrary2.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\UserControl1.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2_MarkupCompile.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2_MarkupCompile.lref
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\UserControl1.baml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.g.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfControlLibrary2\obj\Debug\netcoreapp3.1\WpfControlLibrary2.pdb

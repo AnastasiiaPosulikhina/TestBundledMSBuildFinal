@@ -1,0 +1,9 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\bin\Debug\ConsoleApplication5.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\obj\Debug\ConsoleApplication5.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\obj\Debug\ConsoleApplication5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\obj\Debug\ConsoleApplication5.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\obj\Debug\ConsoleApplication5.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

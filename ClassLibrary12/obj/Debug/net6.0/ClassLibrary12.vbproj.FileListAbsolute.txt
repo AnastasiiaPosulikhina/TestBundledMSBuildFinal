@@ -1,0 +1,12 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\bin\Debug\net6.0\ClassLibrary12.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\bin\Debug\net6.0\ClassLibrary12.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\bin\Debug\net6.0\ClassLibrary12.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ClassLibrary12.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ClassLibrary12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ClassLibrary12.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ClassLibrary12.AssemblyInfo.vb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ClassLibrary12.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ClassLibrary12.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\refint\ClassLibrary12.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ClassLibrary12.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary12\obj\Debug\net6.0\ref\ClassLibrary12.dll

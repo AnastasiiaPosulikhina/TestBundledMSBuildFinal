@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x77RC5SlvuCjLpTURtL8FFsG1kgNq4mwOzJMUuIO1ZHEbRYXWiJ/CZdtdyis03p1N4iT3g4HzdLyNAQl+Q8qyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\ClassLibrary14\\ClassLibrary14.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

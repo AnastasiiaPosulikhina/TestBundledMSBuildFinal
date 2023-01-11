@@ -1,0 +1,15 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\bin\iPhoneSimulator\Debug\WatchOSApp1.WatchOSExtension.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\bin\iPhoneSimulator\Debug\WatchOSApp1.WatchOSExtension.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\WatchOSApp1.WatchOSExtension.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\WatchOSApp1.WatchOSExtension.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\WatchOSApp1.WatchOSExtension.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WatchOSApp1\WatchOSApp1.WatchOSExtension\obj\iPhoneSimulator\Debug\WatchOSApp1.WatchOSExtension.pdb

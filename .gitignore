@@ -1,0 +1,7 @@
+﻿# Project exclude paths
+/ASP.NETCoreWebApplication1/ClientApp/.angular/
+/ASP.NETCoreWebApplication3/ClientApp/.angular/
+/ASP.NETCoreWebApplication5/ClientApp/dist/
+/ASP.NETCoreWebApplication5/ClientApp/node_modules/
+/ASP.NETCoreWebApplication6/ClientApp/node_modules/
+/ASP.NETCoreWebApplication7/ClientApp/node_modules/

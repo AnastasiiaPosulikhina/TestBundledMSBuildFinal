@@ -1,0 +1,11 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\bin\Debug\net5.0\ClassLibrary17.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\bin\Debug\net5.0\ClassLibrary17.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\bin\Debug\net5.0\ClassLibrary17.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\bin\Debug\net5.0\ClassLibrary17.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\obj\Debug\net5.0\ClassLibrary17.fsproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\obj\Debug\net5.0\ClassLibrary17.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\obj\Debug\net5.0\ClassLibrary17.AssemblyInfo.fs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\obj\Debug\net5.0\ClassLibrary17.fsproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\obj\Debug\net5.0\ClassLibrary17.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\obj\Debug\net5.0\ClassLibrary17.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary17\obj\Debug\net5.0\ClassLibrary17.pdb

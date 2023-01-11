@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\bin\Debug\netcoreapp3.1\WpfLibrary2.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\bin\Debug\netcoreapp3.1\WpfLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\bin\Debug\netcoreapp3.1\WpfLibrary2.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.pdb

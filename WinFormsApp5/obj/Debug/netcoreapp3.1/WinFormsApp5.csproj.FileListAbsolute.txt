@@ -1,0 +1,14 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.dev.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.genruntimeconfig.cache

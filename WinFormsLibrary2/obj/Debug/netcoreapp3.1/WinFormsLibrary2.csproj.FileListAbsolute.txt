@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\bin\Debug\netcoreapp3.1\WinFormsLibrary2.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\bin\Debug\netcoreapp3.1\WinFormsLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\bin\Debug\netcoreapp3.1\WinFormsLibrary2.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\obj\Debug\netcoreapp3.1\WinFormsLibrary2.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\obj\Debug\netcoreapp3.1\WinFormsLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\obj\Debug\netcoreapp3.1\WinFormsLibrary2.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\obj\Debug\netcoreapp3.1\WinFormsLibrary2.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\obj\Debug\netcoreapp3.1\WinFormsLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\obj\Debug\netcoreapp3.1\WinFormsLibrary2.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary2\obj\Debug\netcoreapp3.1\WinFormsLibrary2.pdb

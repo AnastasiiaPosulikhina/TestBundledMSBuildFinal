@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RazorClassLibrary4.props" />
+</Project>

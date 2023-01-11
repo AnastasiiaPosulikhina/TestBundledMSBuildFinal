@@ -1,0 +1,12 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\bin\Debug\net7.0-windows\WinFormsLibrary1.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\bin\Debug\net7.0-windows\WinFormsLibrary1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\bin\Debug\net7.0-windows\WinFormsLibrary1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\WinFormsLibrary1.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\WinFormsLibrary1.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\WinFormsLibrary1.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\WinFormsLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\WinFormsLibrary1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\refint\WinFormsLibrary1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\WinFormsLibrary1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsLibrary1\obj\Debug\net7.0-windows\ref\WinFormsLibrary1.dll

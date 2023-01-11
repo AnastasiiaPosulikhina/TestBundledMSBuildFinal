@@ -1,0 +1,5 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Release\netcoreapp3.1\publish\ConsoleApp14.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Release\netcoreapp3.1\publish\ConsoleApp14.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Release\netcoreapp3.1\publish\ConsoleApp14.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Release\netcoreapp3.1\publish\ConsoleApp14.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Release\netcoreapp3.1\publish\ConsoleApp14.pdb

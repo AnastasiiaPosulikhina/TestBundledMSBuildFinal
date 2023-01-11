@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IY7VUVJ3btj0NsvAqengQEIsrCmP9skxdYL3TgLxZBZGGJhjEcn+FyZI4DuqMx4xdNgvg+5/VHTQu2gxOVocoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\WebApplication16\\WebApplication16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

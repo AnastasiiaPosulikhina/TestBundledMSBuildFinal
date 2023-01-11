@@ -1,0 +1,9 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\obj\Debug\TestProject1.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\TestProject1\obj\Debug\TestProject1.pdb

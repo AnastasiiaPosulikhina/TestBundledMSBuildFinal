@@ -1,0 +1,16 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.runtimeconfig.dev.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.AssemblyInfo.vb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\refint\ConsoleApp16.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp16\obj\Debug\net5.0\ref\ConsoleApp16.dll

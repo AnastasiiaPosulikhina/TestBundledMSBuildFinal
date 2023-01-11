@@ -1,0 +1,14 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.dev.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfo.vb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.genruntimeconfig.cache

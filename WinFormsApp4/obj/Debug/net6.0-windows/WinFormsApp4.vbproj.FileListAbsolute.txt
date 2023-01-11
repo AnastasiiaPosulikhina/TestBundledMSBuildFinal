@@ -1,0 +1,15 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.vbproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.vb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.vbproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll

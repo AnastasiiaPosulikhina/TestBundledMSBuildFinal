@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YJTr9cQDzLd4Tinznvnytqu8xDZpTsLqsTsfFl778dDZAX13KlVNtWWaQfkxCZYvXvGezIJQ2VEXi6nuhfCHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\WinFormsControlLibrary1\\WinFormsControlLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

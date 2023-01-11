@@ -1,0 +1,11 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\bin\Debug\net6.0\ClassLibrary11.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\bin\Debug\net6.0\ClassLibrary11.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\bin\Debug\net6.0\ClassLibrary11.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\bin\Debug\net6.0\ClassLibrary11.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.fsproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.AssemblyInfo.fs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.fsproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ClassLibrary11\obj\Debug\net6.0\ClassLibrary11.pdb

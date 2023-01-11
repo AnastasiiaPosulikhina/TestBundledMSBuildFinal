@@ -1,0 +1,16 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\bin\Debug\net5.0-windows\WinFormsApp6.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\bin\Debug\net5.0-windows\WinFormsApp6.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\bin\Debug\net5.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\bin\Debug\net5.0-windows\WinFormsApp6.runtimeconfig.dev.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\bin\Debug\net5.0-windows\WinFormsApp6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\bin\Debug\net5.0-windows\WinFormsApp6.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\refint\WinFormsApp6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\WinFormsApp6\obj\Debug\net5.0-windows\ref\WinFormsApp6.dll

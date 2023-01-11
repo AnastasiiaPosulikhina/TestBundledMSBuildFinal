@@ -1,0 +1,14 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\GrpcService4.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\appsettings.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\GrpcService4.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\GrpcService4.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\GrpcService4.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\GrpcService4.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\Google.Protobuf.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\Grpc.AspNetCore.Server.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\Grpc.Core.Api.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\Grpc.Net.Client.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\Grpc.Net.ClientFactory.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\GrpcService4\bin\Release\net5.0\publish\Grpc.Net.Common.dll

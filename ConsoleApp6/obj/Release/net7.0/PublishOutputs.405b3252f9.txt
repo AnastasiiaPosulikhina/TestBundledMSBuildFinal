@@ -1,0 +1,5 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp6\bin\Release\net7.0\publish\ConsoleApp6.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp6\bin\Release\net7.0\publish\ConsoleApp6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp6\bin\Release\net7.0\publish\ConsoleApp6.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp6\bin\Release\net7.0\publish\ConsoleApp6.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\ConsoleApp6\bin\Release\net7.0\publish\ConsoleApp6.pdb

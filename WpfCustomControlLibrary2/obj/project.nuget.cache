@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mYfqpWK6DEU0cr+G4QoSyE1RHbzagUE5+a71TajLfxbw44sL5phXGsQLd2J9abfN3jFyjz4omoUo3DJkAZDOVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\WpfCustomControlLibrary2\\WpfCustomControlLibrary2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

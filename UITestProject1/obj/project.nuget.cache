@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQFxz5uNl9rvrc+XfDOTAtTJwemEirejzToZLxSx3CjIxGtM8tO8/j39jKuDyQCW0TyWSWLo1MgfIS4kdTsxQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestBundledMSBuildFinal\\UITestProject1\\UITestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\nunit\\2.6.4\\nunit.2.6.4.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\xamarin.uitest\\2.2.4\\xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

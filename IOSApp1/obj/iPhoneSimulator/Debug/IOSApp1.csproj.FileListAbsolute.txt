@@ -1,0 +1,17 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\bin\iPhoneSimulator\Debug\IOSApp1.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\bin\iPhoneSimulator\Debug\IOSApp1.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\IOSApp1.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\IOSApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\IOSApp1.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestBundledMSBuildFinal\IOSApp1\obj\iPhoneSimulator\Debug\IOSApp1.pdb
